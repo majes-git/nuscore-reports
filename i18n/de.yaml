@@ -1,0 +1,41 @@
+de:
+  Game Details: Spielinformationen
+  meetingNr: Spielnummer
+  championship: Meisterschaft
+  league: Liga
+  groupName: Staffel
+  arena: Halle
+  startTime: Spielbeginn
+  endTime: Spielende
+  teamSize: Maximale Anzahl Spieler
+  timeoutCount: Maximale Anzahl TTO
+  halftimeLength: Länge einer Halbzeit
+  teamHome: Heimmannschaft
+  teamGuest: Gastmannschaft
+  result: Ergebnis
+  refereeA: Schiedsrichter A
+  refereeB: Schiedsrichter B
+  secretary: Sekretär
+  timekeeper: Zeitnehmer
+  Home: Heim
+  Guest: Gast
+  Clock Time: Uhrzeit
+  Game Time: Spielzeit
+  Score: Stand
+  Event: Ereignis
+  Events: Ereignisse
+  gameTimeStart: Spielzeit gestartet
+  gameTimeStop: Spielzeit angehalten
+  gameStart: Spielbeginn
+  gamePeriodStart: Halbzeitbeginn
+  gamePeriodStop: Halbzeitende
+  gameEnd: Spielende
+  interruptionByHome: Auszeit Heim
+  interruptionByGuest: Auszeit Gast
+  goal: Tor
+  sevenMeterGoal: 7m mit Tor
+  sevenMeterNoGoal: 7m ohne Tor
+  playerWarning: Verwarnung
+  playerPenalty: Zeitstrafe
+  disqualificationNoReport: Disqualifikation ohne Bericht
+  disqualificationReport: Disqualifikation mit Bericht
